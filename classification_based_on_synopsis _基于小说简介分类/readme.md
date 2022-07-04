@@ -21,7 +21,7 @@ python 小说简介分类.py
 
 Enter some introduction of the novel, then push the buttom, the result will show in the right pannel.
 
-![image-20220612214022904](readme.assets\image-20220612214022904.png)
+![image-20220612214022904](\readme.assets\image-20220612214022904.png)
 
 You can try:
 
